@@ -2,7 +2,7 @@
 PSD to HtML and CSS.
 
 # Problem and Solutions
-I was responsible for writing CSS and HTML for wedding insider. 
+I was responsible for writing CSS and HTML for Location Bank. 
 
 All PSD to HtML and CSS and deployed the code on Google Cloud Platform.
 
